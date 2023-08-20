@@ -7,7 +7,7 @@ DIR_TMP="$(mktemp -d)"
 
 uuid=15ade4a8-774e-444e-afc1-2a3840f1e720
 mypath=/fas30fdsa
-myport=8080
+myport=80
 
 
 # Write V2Ray configuration
